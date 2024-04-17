@@ -91,6 +91,15 @@ Let's trying running it.
   Review what we learned, ask for feedback, provide next steps.
 -->
 
+### Evidences
+
+![image](https://github.com/luis486/skills-publish-packages/assets/71047563/6a666052-033f-42c8-bdb1-3eecc992d0a3)
+
+
+![image](https://github.com/luis486/skills-publish-packages/assets/71047563/589580b5-337d-4727-9570-82ac46eced6e)
+
+![image](https://github.com/luis486/skills-publish-packages/assets/71047563/a033be57-3738-4bd2-afc7-26e5f90758e1)
+
 ## Finish
 
 _Congratulations friend, you've completed this course!_
@@ -125,3 +134,5 @@ Get help: [Post in our discussion board](https://github.com/orgs/skills/discussi
 &copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
 
 </footer>
+
+
